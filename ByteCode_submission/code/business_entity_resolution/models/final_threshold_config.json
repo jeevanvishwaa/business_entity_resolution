@@ -1,0 +1,14 @@
+{
+  "decision_threshold": 0.7,
+  "singleton_threshold": 0.45,
+  "margin_threshold": 0.2,
+  "max_final_candidates": 60,
+  "p5_02_country_aware_normalization": true,
+  "p5_04_e4b_model": true,
+  "p5_05_threshold_policy": true,
+  "p5_01_lexical_tiebreak": false,
+  "p5_03_zero_candidate_fallback": false,
+  "promoted_phase": 6,
+  "promotion_timestamp": "2026-09-27 17:55:24",
+  "promoted_model_sha256": "b3e98ba04ff3c33c03f3c265ac62aa761b54a3ce86be638cd91d29eeaf7744aa"
+}

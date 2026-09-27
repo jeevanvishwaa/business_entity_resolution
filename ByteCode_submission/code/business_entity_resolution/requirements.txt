@@ -1,0 +1,10 @@
+# Amazon ML Challenge 2026: Business Entity Resolution Requirements
+# Verified compatible with Python 3.10 and 3.11
+lightgbm>=4.0.0,<=4.6.0
+numpy>=1.24.0,<=2.2.6
+pandas>=2.0.0,<=2.2.3
+scikit-learn>=1.3.0,<=1.9.1
+rapidfuzz>=3.0.0,<=3.14.3
+joblib>=1.3.0,<=1.4.2
+scipy>=1.10.0,<=1.15.2
+pytest>=7.0.0,<=9.1.1
